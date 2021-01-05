@@ -1,0 +1,56 @@
+html{
+    background-color: black;
+    text-align: center;
+}
+
+header h2 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: normal;
+font-size: 50px;
+color: white;
+
+}
+header{
+    justify-content: center;
+    width: 100%;
+}
+
+.download{
+    color:aquamarine;
+    font-size: 16 px;
+    text-decoration: underline;
+    margin-bottom: 7px;
+
+}
+
+.sc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.tr{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: grey;
+}
+
+footer{
+    text-align: right;
+
+}
+
+footer h3{
+    color: grey;
+    text-decoration: solid;
+}
+
+.namiot{
+    justify-items: center;
+    margin-bottom: 25px;
+}
+
+.ico{
+    justify-items: center;
+}
